@@ -19,10 +19,10 @@ This project follows the Design Thinking process by understanding user needs thr
 
 # Solution and Impact
 
-The application improves the waiting experience by providing real-time updates, reducing uncertainty, and offering personalized relaxation and engagement tools. This helps patients feel more comfortable, informed, and less stressed during their wait.
+The application improves the waiting experience by providing real-time updates, reducing uncertainty, and offering personalized relaxation and engagement tools. This helps patients feel more comfortable, informed, and less stressed during their wait. This solution focuses on both functional efficiency and emotional well-being, making it more user-centered than traditional queue systems.
 
 # Key Features
- Queue Tracking- The app provides real-time updates on the patient’s queue position along with an estimated waiting time. A progress indicator helps users understand how close they are to their turn.
+Queue Tracking- The app provides real-time updates on the patient’s queue position along with an estimated waiting time. A progress indicator helps users understand how close they are to their turn.
 
 Relaxation and Mood Support- Users can select their current mood and access guided breathing exercises, short relaxation sessions, and calming messages to manage stress effectively.
 
