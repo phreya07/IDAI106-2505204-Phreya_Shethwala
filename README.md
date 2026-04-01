@@ -9,6 +9,18 @@ This project is a prototype of a hospital queue management application designed 
 
 The objective of this application is to provide a simple and efficient solution that allows patients to monitor their queue status while reducing anxiety through supportive and interactive features.
 
+# Problem Statement
+
+Patients often experience stress, anxiety, and uncertainty while waiting for their turn in hospitals. Long waiting times without clear updates or engagement can negatively affect their overall experience.
+
+# Design Thinking Approach
+
+This project follows the Design Thinking process by understanding user needs through research (empathize), identifying key problems (define), generating ideas such as relaxation and distraction features (ideate), and developing an interactive prototype (prototype).
+
+# Solution and Impact
+
+The application improves the waiting experience by providing real-time updates, reducing uncertainty, and offering personalized relaxation and engagement tools. This helps patients feel more comfortable, informed, and less stressed during their wait.
+
 # Key Features
  Queue Tracking- The app provides real-time updates on the patient’s queue position along with an estimated waiting time. A progress indicator helps users understand how close they are to their turn.
 
